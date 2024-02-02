@@ -50,10 +50,10 @@ img {
     border-radius: 15px;
 }
 
-h2 {
+h1 {
     color: var(--clr-dark-blue);
     font-weight: var(--fw-bold);
-    font-size: 1.6rem;
+    font-size: 1.55rem;
     padding-top: 1.8rem;
     width: 90%;
     line-height: 1.9rem;
