@@ -20,7 +20,6 @@
 
 body {
     font-family: var(--ff-sans);
-    color: var(--clr-neutral-black);
     background-color:var(--clr-gray);
     min-height: 100vh;
     display: grid;
